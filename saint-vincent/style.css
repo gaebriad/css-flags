@@ -37,4 +37,5 @@ a {
 
 .diamonds {
 width:50%;
+transform: rotate(270deg);
 }
