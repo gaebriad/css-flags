@@ -34,3 +34,9 @@ a {
 .green {
     background:#007c2e;
 }
+
+.diamonds {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align:center;
+}
